@@ -1,0 +1,8 @@
+require 'webdrivers'
+require 'watir'
+require 'cucumber'
+require 'rspec'
+require 'rake'
+require 'selenium-webdriver'
+require 'page-object'
+require 'page-object/page_factory'
